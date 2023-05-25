@@ -83,4 +83,8 @@ button {
         gap: 30px;
         align-self: center;
     }
+
+    .background {
+        height: 1200px;
+    }
 }
