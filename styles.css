@@ -7,8 +7,8 @@ html {
 }
 
 .background {
-    background: linear-gradient(45deg, #e3a92be8, #871feeaf);
-    height: 100vh;
+    background: linear-gradient(135deg, #e3a92be8, #871feeaf);
+    height: 1000px;
     width: auto;
     position: relative;
     display: flex;
